@@ -1,6 +1,6 @@
-<?php
-ini_set('display_errors', 'On');//DEBUG DE CODIGO  PONER EN On
-mb_internal_encoding("UTF-8");//--codificacion para que acepte tildes y eñes--//
+<?  phpvic2123nat . php
+ini_set ( 'display_errors' , 'On' ); // DEBUG DE CODIGO PONER ES Encendidohp
+mb_internal_encoding ( "UTF-8" ); // - codificación para que acepte tildes y eñes - //
 date_default_timezone_set('America/Lima');//--hora de servidor para los registros--//
 function died($error) {//--funcion de error
 	echo 'Lo sentimos, hubo un error en sus datos y el formulario no puede ser enviado en este momento.<br/><br/>'; //----este texto podria ser un html si le quieren dar estilo-------

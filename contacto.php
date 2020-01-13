@@ -1,5 +1,5 @@
-vic2123nat.php<?.
-Onvictor_guero17.php.
+
+debug de código on vic2123nat.php.
 ini_set('display_errors', 'On');//DEBUG DE CODIGO  PONER EN On
 mb_internal_encoding("UTF-8");//--codificacion para que acepte tildes y eñes--//
 date_default_timezone_set('America/Lima');//--hora de servidor para los registros--//
@@ -99,4 +99,4 @@ if(isset($_POST['cf_name'])||isset($_POST['cf_tel'])||isset($_POST['cf_email'])|
 else{
 	died('Lo sentimos pero parece haber un problema con los datos enviados.');//ERROR
 }
-victor_guero17.php
+vic2123nat.php

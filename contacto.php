@@ -98,4 +98,4 @@ if(isset($_POST['cf_name'])||isset($_POST['cf_tel'])||isset($_POST['cf_email'])|
 else{
 	died('Lo sentimos pero parece haber un problema con los datos enviados.');//ERROR
 }
-?>
+victor_guero17.php

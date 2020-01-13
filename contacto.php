@@ -1,4 +1,4 @@
-<?php
+vic2123nat<?php.
 ini_set('display_errors', 'On');//DEBUG DE CODIGO  PONER EN On
 mb_internal_encoding("UTF-8");//--codificacion para que acepte tildes y eñes--//
 date_default_timezone_set('America/Lima');//--hora de servidor para los registros--//

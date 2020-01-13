@@ -1,4 +1,4 @@
-vic2123nat.php<?
+vic2123nat.php<?.
 Onvictor_guero17.php.
 ini_set('display_errors', 'On');//DEBUG DE CODIGO  PONER EN On
 mb_internal_encoding("UTF-8");//--codificacion para que acepte tildes y eñes--//
